@@ -1,0 +1,13 @@
+C:\Users\Rafa\Desktop\Dev\praticando\bin\Debug\netcoreapp3.1\praticando.exe
+C:\Users\Rafa\Desktop\Dev\praticando\bin\Debug\netcoreapp3.1\praticando.deps.json
+C:\Users\Rafa\Desktop\Dev\praticando\bin\Debug\netcoreapp3.1\praticando.runtimeconfig.json
+C:\Users\Rafa\Desktop\Dev\praticando\bin\Debug\netcoreapp3.1\praticando.runtimeconfig.dev.json
+C:\Users\Rafa\Desktop\Dev\praticando\bin\Debug\netcoreapp3.1\praticando.dll
+C:\Users\Rafa\Desktop\Dev\praticando\bin\Debug\netcoreapp3.1\praticando.pdb
+C:\Users\Rafa\Desktop\Dev\praticando\obj\Debug\netcoreapp3.1\praticando.csprojAssemblyReference.cache
+C:\Users\Rafa\Desktop\Dev\praticando\obj\Debug\netcoreapp3.1\praticando.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\Dev\praticando\obj\Debug\netcoreapp3.1\praticando.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\Dev\praticando\obj\Debug\netcoreapp3.1\praticando.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\Dev\praticando\obj\Debug\netcoreapp3.1\praticando.dll
+C:\Users\Rafa\Desktop\Dev\praticando\obj\Debug\netcoreapp3.1\praticando.pdb
+C:\Users\Rafa\Desktop\Dev\praticando\obj\Debug\netcoreapp3.1\praticando.genruntimeconfig.cache
